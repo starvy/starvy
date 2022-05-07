@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Pravda</h1>
 <h3 align="center">I am student from Czech Republic</h3>
-- 🔭 I’m currently working on **School Managment System**
 
 <p align="left">
 </p>
