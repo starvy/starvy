@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Pravda</h1>
-<h3 align="center">I am future cyber security student from Czech Republic</h3>
+<h3 align="center">I am cyber security student from Czech Republic</h3>
 
 <p align="left">
 </p>
