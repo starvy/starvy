@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on School Managment System<br>👯 I’m looking to collaborate on Interesting Projects<br>🌱 I’m currently learning Svelte
+🔭 I’m currently working on Portfolio (TypeScript, Svelte, Rust:crab: ) :rocket:<br>👯 I’m looking to collaborate on Interesting Projects<br>
 
 
 # 💻 Tech Stack:
