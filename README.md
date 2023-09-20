@@ -12,6 +12,8 @@ I am Sebastian Pravda, a passionate full-stack developer who loves writing a per
 
 [**Testy**](https://github.com/admisio/Testy) - Fast, easy-to-use, xlsx compatible testing system. Written in TypeScript and SvelteKit.
 
+[**chessl.ink**](https://github.com/starvy/chessl.ink) - A simple and convenient multiplayer chess game. Play chess with friends using short link. Written in Next.js, Typescript.
+
 ### Connect with me:
 
 <p align="left">
